@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.francalanci.michael.moviestars.MainActivity">
+
+    <item
+        android:id="@+id/order_rated"
+        android:orderInCategory="100"
+        android:title="@string/order_rated"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/order_popular"
+        android:orderInCategory="100"
+        android:title="@string/order_popular"
+        app:showAsAction="never" />
+</menu>

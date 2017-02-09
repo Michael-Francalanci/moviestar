@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieStars</string>
+    <string name="order_popular">Popular</string>
+    <string name="order_rated">Top Rated</string>
+    <string name="error_call_api">Error retrieving movies!</string>
+    <string name="title_activity_details">MovieDetail</string>
+    <string name="release">Release date</string>
+    <string name="vote">Vote</string>
+</resources>
